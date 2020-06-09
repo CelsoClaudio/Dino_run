@@ -6,6 +6,6 @@ Este projeto foi inspirado no jogo do dinossauro da Google.
 
 <u>COMANDOS DO JOGO:</u>
 
-1 - Na tela inicial, pressione | Espaço para iniciar a corrida ou "X" para sair do jogo.
+1 - Na tela inicial, pressione: "ESPAÇO" para iniciar a corrida ou "X" para sair do jogo.
 
-2 - Durante o jogoa, pressione | "W" ou seta para cima para pular | "S" ou seta para baixo para abaixar.
+2 - Durante o jogo, pressione: "W" ou seta para cima, para pular | "S" ou seta para baixo, para abaixar.
